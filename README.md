@@ -13,5 +13,5 @@ I'm always trying to grow and learn something new. I lose track of time when I'm
 Currently improving my GraphQL, REDIS and React skills.<br />
 
 ### Find me elsewhere 🌎
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge" style="text-align:center"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="ahmedbaig1"><a class="LI-simple-link" href='https://pk.linkedin.com/in/ahmedbaig1?trk=profile-badge'>Ahmed Baig</a></div>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmedbaig1/)](https://www.linkedin.com/in/ahmedbaig1/)  

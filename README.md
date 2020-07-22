@@ -1,5 +1,5 @@
-![banner](./assets/banner.png)
-<img align='right' src="./assets/coder.jpg" width="230">
+![banner](https://github.com/ahmedbaig/ahmedbaig/blob/master/assets/banner.png)
+<img align='right' src="https://github.com/ahmedbaig/ahmedbaig/blob/master/assets/coder.jpg" width="230">
 ### Hey, I'm Ahmed Baig! ✌
 
 I work as a ~~web developer~~ ninja software engineer 💪. I´m based in Karachi, Pakistan.

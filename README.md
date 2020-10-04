@@ -16,4 +16,4 @@ Currently improving my GraphQL, REDIS and React skills.<br />
 
 ### Find me elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmedbaig1/)](https://www.linkedin.com/in/ahmedbaig1/)  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmedbaig1/)](https://www.linkedin.com/in/muAhmedBaig/)  

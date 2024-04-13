@@ -20,7 +20,5 @@ Currently working on GenAI development.<br />
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmedbaig1/)](https://www.linkedin.com/in/muAhmedBaig/) 
 
 <div>
-    <img src="https://www.freelancer.com/static/css/images/landingpage/hireme-widget-builder/fl-bird-icon.png" style="clear:left;float:left;margin: 10px 0;">
-    <a href="https://www.freelancer.com/affiliates/email/9094453/" style="display: block;text-decoration: underline;margin: 10px 0 10px 10px;vertical-align: middle;height: 21px;float: left">Hire me on Freelancer.com</a>
     <img src="//t.flnwdgt.com/1px.gif?username=ahmedbaig97&amp;en=externalHireme&amp;method=img&amp;label=hiremeEmailImpression&amp;ip=202.47.36.32&amp;type=emailSignature" alt="" style="float:left;">
 </div>

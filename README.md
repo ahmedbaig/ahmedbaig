@@ -2,7 +2,7 @@
 <img align='right' src="https://github.com/ahmedbaig/ahmedbaig/blob/master/assets/coder.jpg" width="230">
 ### Hey, I'm Ahmed Baig! ✌
 
-I work as a ~~web developer~~ ninja software engineer 💪. I´m based in Karachi, Pakistan.
+I work as a ninja software engineer 💪. I´m based in Sydney, Australia.
 
 Since 2015 I've been softwares and apps, experimenting with crazy architectures and best practices. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
 
@@ -12,7 +12,7 @@ I'm always trying to grow and learn something new. I lose track of time when I'm
 
 ### What I'm focusing on 👨‍💻
 
-Currently working on Prisma, JAVA SpringBoot, Solidity, Django.<br />
+Currently working on GenAI development.<br />
 
 ### Find me elsewhere 🌎
 
